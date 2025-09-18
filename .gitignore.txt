@@ -1,0 +1,21 @@
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+venv/
+.venv/
+
+# NLTK data (we download at runtime instead)
+nltk_data/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+
+# Big data or models (if using Git LFS instead)
+*.pkl
